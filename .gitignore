@@ -104,4 +104,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-LS_DS_Unit_4_Sprint_Challenge_2 (2).ipynb
+*.LS_DS_Unit_4_Sprint_Challenge_2 (2).ipynb
